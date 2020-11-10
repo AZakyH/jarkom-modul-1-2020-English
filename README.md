@@ -1,6 +1,6 @@
-# Crimping dan Wireshark
+# Cable Crimping and Wireshark
 
-## Daftar Isi
+## Table of Contents
 + 1.[Wire Crimping](#1-wire-crimping)
      + 1.1 [Required Equipment](#11-required-equipment)
      + 1.2 [Types of Configuration on UTP Cable](#12-cable-configuration)
